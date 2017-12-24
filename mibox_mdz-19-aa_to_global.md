@@ -1,4 +1,4 @@
-Full credit to the modders at miui.vn, all I did was translate this and simpliy the steps
+Full credit to the modders at miui.vn, all I did was translate this and simplify the steps
 
 ## Known Issues
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Netflix is limited to SD since the device wont have a valid ESN for Widevine`
@@ -8,12 +8,12 @@ Full credit to the modders at miui.vn, all I did was translate this and simpliy 
 * 19-AA Factory Image: https://www.androidfilehost.com/?fid=529152257862691887
 * 16-AB Base Image: https://androidfilehost.com/?fid=961840155545569444
 * -Whatever- the latest 16-AB flashable at the time of writing this https://xiaomi.eu/community/threads/xiaomi-mdz-16-ab-nougat-beta-download-source-build-1560-12-2017.42621
-* Male to Male USB cord OR use 'WiFi ADB - Debug Over Air' (Far more risky if connection drops, but it does work)
+* Male to Male USB cord OR use 'WiFi ADB - Debug Over Air' (Riskier, but it does work)
 
 ## Restore to factory image with adb and root
 * Extract the 19-AA image to a USB formatted with the default allocation FAT32, must be under 32GB in size
 * Plug the USB
-* Power the device off by removing the powercord
+* Power the device off by removing the power-cord
 * While plugging the cord in press and hold the back and menu button until you see the flashing begin
 
 ## Applying 16-AB base image
