@@ -15,7 +15,7 @@ Full credit to the modders at miui.vn, all I did was translate this and simplify
 * Extract the 19-AA image to a USB formatted with the default allocation FAT32, must be under 32GB in size
 * Plug the USB into the Mi Box
 * Power the device off by removing the power-cord
-* While plugging the cord in press and hold the back and menu button until you see the flashing begin
+* While plugging the power-cord in press and hold the back and menu button until you see the flashing begin
 * Reboot the device after the flash is complete
 
 ## Applying 16-AB base image
