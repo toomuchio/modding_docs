@@ -5,6 +5,7 @@ Full credit to the modders at miui.vn, all I did was translate this and simplify
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Casting doesn't currently work, but Airplay does`
 
 ## Requirements
+* Experience with adb and a PC setup with adb
 * 19-AA Factory Image: https://www.androidfilehost.com/?fid=529152257862691887
 * 16-AB Base Image: https://androidfilehost.com/?fid=961840155545569444
 * -Whatever- the latest 16-AB flashable at the time of writing this https://xiaomi.eu/community/threads/xiaomi-mdz-16-ab-nougat-beta-download-source-build-1560-12-2017.42621
@@ -12,7 +13,7 @@ Full credit to the modders at miui.vn, all I did was translate this and simplify
 
 ## Restore to factory image with adb and root
 * Extract the 19-AA image to a USB formatted with the default allocation FAT32, must be under 32GB in size
-* Plug the USB
+* Plug the USB into the Mi Box
 * Power the device off by removing the power-cord
 * While plugging the cord in press and hold the back and menu button until you see the flashing begin
 * Reboot the device after the flash is complete
@@ -31,6 +32,7 @@ adb reboot recovery
 
 ## Flashing latest 16-AB
 * Copy the latest 16-AB flashable to your USB, delete the 19-AA factory image files first
+* Plug the USB into the Mi Box
 * Once in recovery either via adb reboot or by following the previous steps
 * Select `Apply update from EXT` then pick `udisk` then select the flashable
 * Select `Wipe Data / Factory Restore` then reboot and enjoy!
