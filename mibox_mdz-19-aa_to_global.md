@@ -35,4 +35,4 @@ adb reboot recovery
 * Plug the USB into the Mi Box
 * Once in recovery either via adb reboot or by following the previous steps
 * Select `Apply update from EXT` then pick `udisk` then select the flashable
-* Select `Wipe Data / Factory Restore` then reboot and enjoy!
+* Select for good measure `Wipe Data / Factory Restore` then reboot and enjoy!
