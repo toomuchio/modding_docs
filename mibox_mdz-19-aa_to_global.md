@@ -1,7 +1,7 @@
 Full credit to the modders at miui.vn, all I did was translate this and simpliy the steps
 
 ## Known Issues
-* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Netflix is limited to SD since the device wont have valid a valid ESN for Widevine`
+* ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Netflix is limited to SD since the device wont have a valid ESN for Widevine`
 * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Casting doesn't currently work, but Airplay does`
 
 ## Requirements
